@@ -1,4 +1,4 @@
-# Booking Website Frot end
+# TREKTROVE Website Frot end
 
 This project was a challenging but rewarding experience that taught me a lot about React and Styled Components. I learned how to use Styled Components to create reusable and maintainable CSS styles, and how to implement responsive design for mobile devices.
 
